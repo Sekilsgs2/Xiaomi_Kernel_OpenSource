@@ -41,3 +41,4 @@ ENTRY(strrchr)
 2:	mov	x0, x3
 	ret
 ENDPROC(strrchr)
+ENDPIPROC(strrchr)
